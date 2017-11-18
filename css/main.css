@@ -1,0 +1,83 @@
+/*setear css*/
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arvo', serif;
+    background-image: url("../assets/images/huella.jpg");
+    width: 100%;
+    height: 600px;
+
+}
+h1 {
+    text-align: center;
+    background-color: #32CCFE;
+    color: white;
+    top: 0;
+    height: 70px;
+    margin: 0;
+    line-height: 60px;
+}
+/*estilos de la seccción 1*/
+.section1 {
+    /*outline: 1px solid green;*/
+    display: inline-block;
+    height: 200px;
+    width: 40%;
+    background-color: white;
+    margin: 30px 20px 30px 100px;
+}
+.intro {
+    /*outline: 1px solid blue;*/
+    margin-left: 20px;
+}
+.section-12 {
+    display: flex;
+}
+/*estilos de la sección 2*/
+.section-tweet {
+    /*outline: 1px solid black;*/
+    display: inline-block;
+    height: auto;
+    width: 40%;
+    background-color: white;
+    margin-top: 30px;
+}
+/*estilos del input formulario*/
+.size {
+    width: 98%;
+    border: none;   
+}
+#texto {
+    border: none;
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: x-large;
+}
+#twittear {
+    background-color: #32CCFE;
+    font-family: 'Arvo', serif;
+    font-size: large;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 15px;
+    color: white;
+}
+#info {
+    font-size: large;
+    font-family: 'Arvo', serif;
+    border: none;
+    text-align: right;
+    width: 70%;
+}
+/*estilos del contenedor de tweets*/
+.tweet-style {
+    background-color: white;
+    border-radius: 10px; 
+    margin: 10px 100px 10px 65px;   
+}
+.tweetc {
+    margin: 20px;
+}
+/*resize:none*/
