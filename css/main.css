@@ -4,7 +4,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: 'Arvo', serif;
-    background-image: url("../assets/images/huella.jpg");
+    background-image: url("../assets/images/fondo-celeste.jpg");
     width: 100%;
     height: 600px;
 }
@@ -69,7 +69,7 @@ h1 {
 }
 /*tweets-container-styles*/
 .tweet-style {
-    background-color: white;
+    padding: 0 80px;
     border-radius: 10px; 
     margin: 10px 100px 10px 65px;   
 }

@@ -12,6 +12,11 @@ window.addEventListener('load', function(event) {
       var p = document.createElement('p'); 
       p.textContent = text.value;
       tweetList.appendChild(p);
+      p.style.backgroundColor = '#1DA1F2';
+      p.style.color = 'white';
+      p.style.fontWeight = 'bold';
+      p.style.borderRadius = '10px';
+      p.style.padding = '15px';
       text.value = '';
     }
   });
