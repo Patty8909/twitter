@@ -1,5 +1,5 @@
 # TWITTER
-Twitter es una aplicación web que replica el newsfeed de twitter, especificamente, añade la funcionalidad de twitear.
+Twitter es una aplicación web que replica el newsfeed de twitter, especificamente, añade la funcionalidad de twitear y el contador de caracteres. Se utilizó como principal herramienta javascript.
 
 ![twi](https://user-images.githubusercontent.com/32307161/38065895-1aa86c70-32cb-11e8-9b57-72d64b803abb.png)
 
